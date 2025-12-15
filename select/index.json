@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Build Our Machine",
+  "base_artist": "Dagames",
+  "createdAt": "2025-12-15T13:54:31.371982Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Build Our Machine - Remix",
+      "artist": "MiatriSs feat. Triforcefilms",
+      "has_synced": false,
+      "path": "select/01_Build_Our_Machine_-_Remix_MiatriSs_feat._Triforcefilms.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Build Our Machine - Remix",
+      "artist": "MiatriSs/Triforcefilms",
+      "has_synced": false,
+      "path": "select/02_Build_Our_Machine_-_Remix_MiatriSs_Triforcefilms.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Build Our Machine (Bendy and the Ink Machine) (Remix)",
+      "artist": "SayMaxWell feat. Triforcefilms",
+      "has_synced": true,
+      "path": "select/03_Build_Our_Machine_(Bendy_and_the_Ink_Machine)_(Remix)_SayMaxWell_feat._Triforcefilms.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Build Our Machine (Bendy and the Ink Machine) - Remix",
+      "artist": "Triforcefilms",
+      "has_synced": true,
+      "path": "select/04_Build_Our_Machine_(Bendy_and_the_Ink_Machine)_-_Remix_Triforcefilms.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Build Our Machine",
+      "artist": "DAGames",
+      "has_synced": true,
+      "path": "select/05_Build_Our_Machine_DAGames.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Build Our Machine",
+      "artist": "DAGames",
+      "has_synced": true,
+      "path": "select/06_Build_Our_Machine_DAGames.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Build Our Machine - Rock Version",
+      "artist": "DAGames",
+      "has_synced": true,
+      "path": "select/07_Build_Our_Machine_-_Rock_Version_DAGames.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Build Our Machine (Rock Version)",
+      "artist": "Dagames",
+      "has_synced": true,
+      "path": "select/08_Build_Our_Machine_(Rock_Version)_Dagames.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Build Our Machine",
+      "artist": "Caleb Hyles",
+      "has_synced": true,
+      "path": "select/09_Build_Our_Machine_Caleb_Hyles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Build Our Machine (From \"Bendy And The Ink Machine\")",
+      "artist": "Geek Music",
+      "has_synced": false,
+      "path": "select/10_Build_Our_Machine_(From__Bendy_And_The_Ink_Machine_)_Geek_Music.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Build Our Machine - Instrumental",
+      "artist": "MiatriSs",
+      "has_synced": false,
+      "path": "select/11_Build_Our_Machine_-_Instrumental_MiatriSs.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Build Our Machine (Instrumental)",
+      "artist": "MiatriSs, MiatriSs",
+      "has_synced": false,
+      "path": "select/12_Build_Our_Machine_(Instrumental)_MiatriSs,_MiatriSs.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Build Our Machine (feat. Triforcefilms) (Remix)",
+      "artist": "MiatriSs, MiatriSs, MiatriSs",
+      "has_synced": false,
+      "path": "select/13_Build_Our_Machine_(feat._Triforcefilms)_(Remix)_MiatriSs,_MiatriSs,_MiatriSs.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Build Our Machine",
+      "artist": "MiatriSs",
+      "has_synced": false,
+      "path": "select/14_Build_Our_Machine_MiatriSs.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Build Our Machine (Bendy and the Ink Machine) [Instrumental Remix]",
+      "artist": "SayMaxWell",
+      "has_synced": true,
+      "path": "select/15_Build_Our_Machine_(Bendy_and_the_Ink_Machine)_[Instrumental_Remix]_SayMaxWell.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Build Our Machine (Bendy and the Ink Machine)",
+      "artist": "SayMaxWell",
+      "has_synced": true,
+      "path": "select/16_Build_Our_Machine_(Bendy_and_the_Ink_Machine)_SayMaxWell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Build Our Machine",
+      "artist": "Jackie-O",
+      "has_synced": false,
+      "path": "select/17_Build_Our_Machine_Jackie-O.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Build Our Machine",
+      "artist": "Dagames",
+      "has_synced": false,
+      "path": "select/pl_01_Build_Our_Machine_Dagames.txt"
+    }
+  ]
+}
